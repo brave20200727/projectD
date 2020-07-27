@@ -1,5 +1,5 @@
 # projectD
 
-This is readme.
+- This is readme.
 
-Add this line by github web.
+- Add this line by github web.
